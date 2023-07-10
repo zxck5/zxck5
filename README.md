@@ -4,12 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hello, I am Jay, currently in Computer Programming Analysis in Humber College 2nd Year, Co-op stream.
-
-I am interested in solving algorithm.
-I love Java and learning Spring framework and JPA(Java persistence API).
-
-
-Brief description about the project: https://github.com/zxck5/FoodSearchProject
+Currently in contract internship in Bitbuy!
 
 
 My School project:
