@@ -10,4 +10,5 @@ Currently in contract internship in Bitbuy!
 My School project:
 https://ecommerce-site-nine-peach.vercel.app/
 
+https://github.com/Natasha-A/ecommerce-site
 https://heroku-app-c-zxck5.vercel.app/ 
