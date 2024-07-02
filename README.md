@@ -3,8 +3,7 @@ zxck5/zxck5 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello, I am Jay, currently in Computer Programming Analysis in Humber College 2nd Year, Co-op stream.
-Currently in contract internship in Bitbuy!
+Hello, I graduated Computer Programming in Humber College.
 
 
 My School project:
